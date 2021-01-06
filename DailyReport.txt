@@ -1,0 +1,8 @@
+Daily Report 6/1/2021:
+- Working process:
++ Học về mảng 1 chiều, 2 chiều
++ Truy xuất phần tử trong mảng
+
+- Actual result:
++ Hoàn thành Java exercises từ Prob đến Prob 8
++ Cài đặt SOAP tool
