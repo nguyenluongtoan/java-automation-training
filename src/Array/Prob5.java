@@ -1,7 +1,8 @@
 package Array;
 import java.util.Scanner;
 
-public class Prob1 {
+public class Prob5 {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input number of elements in array: ");
@@ -11,9 +12,17 @@ public class Prob1 {
             System.out.println("Input number: ");
             arr[i] = sc.nextInt();
         }
+        int max = arr[0];
 
-        for (int i = 0; i < n; i++) {
-            System.out.println("Elements in array are: " + arr[i]);
+        for (int i = 1; i < n; i++) {
+            if ( arr[i] > max) {
+                max = arr[i];
+            }
         }
+
+
+        System.out.println("The max value in array: " + max);
+
     }
+
 }
