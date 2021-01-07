@@ -10,6 +10,9 @@ public class MatrixMinus {
         Scanner sc = new Scanner(System.in);
         System.out.println("Input number of rows for matrix: ");
         n = sc.nextInt();
+        System.out.println("Input number of column for matrix: ");
+        m = sc.nextInt();
+        matrix = new int[n][m];
 
     }
 
