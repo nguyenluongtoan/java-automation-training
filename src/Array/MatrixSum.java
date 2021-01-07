@@ -31,5 +31,6 @@ public class MatrixSum {
         }
         // Calculate sum of elements in matrix
 
+        System.out.println("Sum of all elements in matrix: " + sum);
     }
 }
