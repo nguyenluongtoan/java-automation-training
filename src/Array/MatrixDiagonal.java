@@ -25,8 +25,9 @@ public class MatrixDiagonal {
         System.out.println("Matrix is: ");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                System.out.print(matrix[i][j] + "\t");
+                System.out.print(matrix[i][j] + " ");
             }
+            System.out.println();
         }
 
         for (int i = 0; i < n; i++) {
@@ -34,9 +35,8 @@ public class MatrixDiagonal {
                 if (i == j) {
                     sum += matrix[i][j];
                 }
-                System.out.println();
             }
         }
-        System.out.println("Sum of diagonal ia: " + sum);
+        System.out.println("Sum of diagonal is: " + sum);
     }
 }
