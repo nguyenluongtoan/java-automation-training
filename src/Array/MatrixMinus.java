@@ -13,6 +13,14 @@ public class MatrixMinus {
         System.out.println("Input number of column for matrix: ");
         m = sc.nextInt();
         matrix = new int[n][m];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; i < m; i++) {
+                System.out.print("Matrix A: ");
+                matrix[i][j] = sc.nextInt();
+            }
+            System.out.println();
+        }
+        // input matrix A
 
     }
 
