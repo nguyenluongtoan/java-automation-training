@@ -17,5 +17,15 @@ public class MagicPlus {
         matrixB = new int[n][m];
         matrixC = new int[n][m];
 
+        System.out.println("Matrix A: ");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                System.out.print("A["+i+","+j+"] ");
+                matrixA[i][j] = sc.nextInt();
+            }
+            System.out.println();
+        }
+        // input matrix A
+
     }
 }
