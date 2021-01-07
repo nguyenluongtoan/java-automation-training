@@ -22,6 +22,14 @@ public class MatrixMinus {
         }
         // input matrix A
 
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; i < m; i++) {
+                System.out.print("Matrix B: ");
+                matrix[i][j] = sc.nextInt();
+            }
+            System.out.println();
+        }
+        // input matrix B
     }
 
 }
