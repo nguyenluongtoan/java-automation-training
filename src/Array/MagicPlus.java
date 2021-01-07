@@ -40,10 +40,17 @@ public class MagicPlus {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                matrixC[i][j] = matrixA[i][j] - matrixB[i][j];
+                matrixC[i][j] = matrixA[i][j] + matrixB[i][j];
             }
             System.out.println();
         }
         // calculate elements of matrix C
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                System.out.print(matrixC[i][j] + " ");
+            }
+            System.out.println();
+        }
     }
 }
