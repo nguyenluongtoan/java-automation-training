@@ -22,11 +22,11 @@ public class MatrixSum {
             System.out.println();
 
         }
-        //Input
+        //Input matrix
 
         System.out.println("Matrix is: ");
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+            for (int j = 0; j < m; j++) {
                 System.out.print(matrix[i][j] + " ");
             }
             System.out.println();
@@ -34,7 +34,7 @@ public class MatrixSum {
         // Show the matrix
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+            for (int j = 0; j < m; j++) {
                 sum += matrix[i][j];
             }
         }
