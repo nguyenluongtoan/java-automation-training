@@ -5,11 +5,30 @@ import java.util.Scanner;
 public class MatrixDiagonal {
     public static void main(String []args) {
         int sum = 0;
-        int degree;
+        int n;
         int matrix[][];
         Scanner sc = new Scanner(System.in);
         System.out.println("Input degree of matrix: ");
-        degree = sc.nextInt();
+        n = sc.nextInt();
+
+        matrix = new int[n][n];
+        System.out.println("Input matrix: ");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.print("A["+i+","+j+"] ");
+                matrix[i][j] = sc.nextInt();
+            }
+            System.out.println();
+        }
+        // input matrix
+
+        System.out.println("Matrix is: ");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                System.out.print(A[i][j] + "\t");
+            }
+            System.out.println("\n");
+        }
 
     }
 }
