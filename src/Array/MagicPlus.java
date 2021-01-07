@@ -27,5 +27,15 @@ public class MagicPlus {
         }
         // input matrix A
 
+
+        System.out.println("Matrix B: ");
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                System.out.print("B["+i+","+j+"] ");
+                matrixB[i][j] = sc.nextInt();
+            }
+            System.out.println();
+        }
+        // input matrix B
     }
 }
