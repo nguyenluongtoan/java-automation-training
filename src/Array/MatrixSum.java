@@ -23,5 +23,13 @@ public class MatrixSum {
 
         }
         //Input matrix
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                sum += matrix[i][j];
+            }
+        }
+        // Calculate sum of elements in matrix
+
     }
 }
