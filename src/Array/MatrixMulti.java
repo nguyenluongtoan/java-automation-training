@@ -3,7 +3,13 @@ import java.util.*;
 
 public class MatrixMulti {
     public static void maiṇ̣̣̣̣̣̣̣̣(String[] args) {
+        int m,n,k;
         Scanner sc = new Scanner(System.in);
+        System.out.println("Input number of rows for matrix A: ");
+        m = sc.nextInt();
+        System.out.println("Input number of rows for matrix A: ");
+        n = sc.nextInt();
+
     }
 
     public static void showMatrix (int[][] x) {
@@ -16,6 +22,7 @@ public class MatrixMulti {
 
     }
     // show the matrix
+
 
     public static int[][] inputMatrix (int m, int n, Scanner sc) {
         int[][] x = new int[m][n];
