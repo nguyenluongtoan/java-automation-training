@@ -1,4 +1,5 @@
 package Array;
+import java.util.*;
 
 public class MatrixMulti {
     public static void maiṇ̣̣̣̣̣̣̣̣(String[] args) {
@@ -14,8 +15,20 @@ public class MatrixMulti {
         }
 
     }
+    // show the matrix
 
-    int[][] matrixMulti(int[][] a, int[][] b, Scanner sc) {
+    public static int[][] inputMatrix (int m, int n, Scanner sc) {
+        int[][] x = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                x[i][j] = sc.nextInt();
+            }
+        }
+        return x;
+    }
+    // Input matrix
+
+    int[][] matrixMulti(int[][] a, int[][] b) {
         int[][] c = new int[a.length][b[0].length];
         int m = a.length;
         int n = b[0].length;
