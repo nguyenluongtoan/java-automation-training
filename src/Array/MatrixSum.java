@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MatrixSum {
     public static void main(String []args) {
         int sum = 0;
-        int n,m;
+        int n, m;
         int matrix[][];
         Scanner sc = new Scanner(System.in);
         System.out.println("Input number of rows in matrix: ");
@@ -16,12 +16,13 @@ public class MatrixSum {
         System.out.println("Input matrix: ");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
-                System.out.println("A["+i+"] ["+j+"] ");
+                System.out.println("A[" + i + "] [" + j + "] ");
                 matrix[i][j] = sc.nextInt();
             }
             System.out.println();
 
         }
+
         //Input matrix
 
         System.out.println("Matrix is: ");

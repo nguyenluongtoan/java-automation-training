@@ -1,8 +1,8 @@
 package Array;
-import java.util.*;
+import java.util.Scanner;
 
 public class MatrixMulti {
-    public static void maiṇ̣̣̣̣̣̣̣̣(String[] args) {
+    public static void main(String []args) {
         int m,n,k;
         int [][] a,b,c;
         Scanner sc = new Scanner(System.in);
@@ -16,17 +16,21 @@ public class MatrixMulti {
         a = inputMatrix(m,n,sc);
         System.out.println("Input matrix B: ");
         b = inputMatrix(n,k,sc);
+        System.out.println("Matrix A:");
+        showMatrix(a);
+        System.out.println("Matrix B:");
+        showMatrix(b);
         System.out.println("Multiple matrix: ");
         c = matrixMulti(a,b);
         showMatrix(c);
     }
 
     public static void showMatrix (int[][] x) {
-        System.out.println("Matrix is: ");
         for (int i = 0; i < x.length; i++) {
             for (int j = 0; j < x[0].length; j++) {
-                System.out.println("%5d", x[i][j]);
+                System.out.print(x[i][j] + " ");
             }
+            System.out.println();
         }
 
     }
@@ -52,7 +56,7 @@ public class MatrixMulti {
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 for (int k = 0; k < p; k++) {
-                    c[i][j] += a[i][p] * b[j][p];
+                    c[i][j] += a[i][k] * b[j][k];
                 }
             }
         }
