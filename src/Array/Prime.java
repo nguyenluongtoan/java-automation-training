@@ -15,8 +15,20 @@ public class Prime {
             }
             return true;
         }
-        // function check number í prime or not
+        // function check number is prime or not
 
+    public static void primeAnalyze(int n){
+        for(int i=2;i<=n;i++){
+            while(checkPrime(i) && (n%i ==0)){
+                System.out.print(" " + i);
+                n/=i;
+            }
+        }
+    }
+    // analyze a prime
 
+    public static void main (String []args) {
+
+    }
     }
 
