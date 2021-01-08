@@ -17,7 +17,8 @@ public class MatrixMulti {
         System.out.println("Input matrix B: ");
         b = inputMatrix(n,k,sc);
         System.out.println("Multiple matrix: ");
-
+        c = matrixMulti(a,b);
+        showMatrix(c);
     }
 
     public static void showMatrix (int[][] x) {
@@ -43,7 +44,7 @@ public class MatrixMulti {
     }
     // Input matrix
 
-    public int[][] matrixMulti(int[][] a, int[][] b) {
+    public static int[][] matrixMulti(int[][] a, int[][] b) {
         int[][] c = new int[a.length][b[0].length];
         int m = a.length;
         int n = b[0].length;
