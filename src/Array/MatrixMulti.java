@@ -4,11 +4,19 @@ import java.util.*;
 public class MatrixMulti {
     public static void maiṇ̣̣̣̣̣̣̣̣(String[] args) {
         int m,n,k;
+        int [][] a,b,c;
         Scanner sc = new Scanner(System.in);
         System.out.println("Input number of rows for matrix A: ");
         m = sc.nextInt();
-        System.out.println("Input number of rows for matrix A: ");
+        System.out.println("Input number of colums for matrix A: ");
         n = sc.nextInt();
+        System.out.println("Input number of colums for matrix B: ");
+        k = sc.nextInt();
+        System.out.println("Input matrix A: ");
+        a = inputMatrix(m,n,sc);
+        System.out.println("Input matrix B: ");
+        b = inputMatrix(n,k,sc);
+        System.out.println("Multiple matrix: ");
 
     }
 
@@ -35,7 +43,7 @@ public class MatrixMulti {
     }
     // Input matrix
 
-    int[][] matrixMulti(int[][] a, int[][] b) {
+    public int[][] matrixMulti(int[][] a, int[][] b) {
         int[][] c = new int[a.length][b[0].length];
         int m = a.length;
         int n = b[0].length;
