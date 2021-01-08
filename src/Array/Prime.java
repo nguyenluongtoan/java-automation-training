@@ -28,7 +28,11 @@ public class Prime {
     // analyze a prime
 
     public static void main (String []args) {
-
+        Prime pt = new Prime();
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Input the prime: ");
+        int pr = scanner.nextInt();
+        pt.primeAnalyze(pr);
     }
     }
 
