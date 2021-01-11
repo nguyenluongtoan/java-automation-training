@@ -23,7 +23,7 @@ Daily report 8/1/2021:
 - Actual result:
 + Hoàn thành Java exercises Prob 15, 17
 
-<<<<<<< HEAD
+
 Issue: 
 - Bài 14 ma trận nghịch đảo khó vãi chưởng anh ơi :(
 
@@ -37,11 +37,7 @@ Daily report 11/1:
 - Actual result:
 + Hoàn thành Prob 18 của bài tập về mảng
 + Hoàn thành Prob 1,2,3 của bài tập về xử lí chuỗi kí tự
-=======
-Issue:
-- Bài 14 ma trận nghịch đảo khó vãi chưởng anh ơi :(
 
->>>>>>> 1d81a96a43dbdecf7549dbcaa586450d2212eec8
 
 Issues:
 - Gặp vấn đề về git command: git rm, git push
