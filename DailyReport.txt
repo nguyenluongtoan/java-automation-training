@@ -6,26 +6,3 @@ Daily Report 6/1/2021:
 - Actual result:
 + Hoàn thành Java exercises từ Prob đến Prob 8
 + Cài đặt SOAP tool
-
-Daily report 7/1/2021:
-- Working process:
-+ Học về matrix (mang da chieu)
-+ Truy xuất phần tử trong mảng
-
-- Actual result:
-+ Hoàn thành Java exercises từ Prob 8 đến Prob 13
-
-Daily report 8/1/2021:
-- Working process:
-+ Học về khai báo string và các thao tác trên string
-+ Khái niệm lớp, đối tượng, thuộc tính
-
-- Actual result:
-+ Hoàn thành Java exercises Prob 15, 17
-
-Issue:
-- Bài 14 ma trận nghịch đảo khó vãi chưởng anh ơi :(
-
-
-
-
