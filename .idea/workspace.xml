@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c367ea8-c3a1-4709-8229-12ef4465423d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DailyReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DailyReport.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/JavaAutomationTraining.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MagicPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MagicSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixDiagonal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixMinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixTranposition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Compare3intergers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LoopProb1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LoopProb2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LoopProb3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/OddandEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Quadratic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/SwapWithoutVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MagicPlus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MagicSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixDiagonal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixInverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixMinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixTranposition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Compare3intergers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/IfElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LoopProb1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LoopProb2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LoopProb3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/OddandEven.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Quadratic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/SwapWithoutVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MagicPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MagicSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixDiagonal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixInverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixMinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixTranposition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Compare3intergers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LoopProb1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LoopProb2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LoopProb3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/OddandEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Quadratic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/SwapWithoutVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Variable.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mjlPP2UyP6goHvuPNoSP0apXuH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Prob3">
+    <configuration name="GcdAndLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.GcdAndLcm" />
+      <module name="JavaAutomationTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixMulti" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MatrixMulti" />
+      <module name="JavaAutomationTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Prime" />
+      <module name="JavaAutomationTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prob1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Prob1" />
+      <module name="JavaAutomationTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prob2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Prob2" />
+      <module name="JavaAutomationTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prob3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Prob3" />
+      <module name="JavaAutomationTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed (1)1" type="Application" factoryName="Application">
+      <module name="JavaAutomationTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java-automation-training-JavaAutomationTraining" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java-automation-training-JavaAutomationTraining" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MatrixMulti" />
+      <item itemvalue="Application.Unnamed (1)1" />
+      <item itemvalue="Application.Prime" />
+      <item itemvalue="Application.GcdAndLcm" />
+      <item itemvalue="Application.Prob1" />
+      <item itemvalue="Application.Prob2 (1)" />
+      <item itemvalue="Application.Prob3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Prob3" />
+        <item itemvalue="Application.Prob2 (1)" />
+        <item itemvalue="Application.Prob1" />
+        <item itemvalue="Application.GcdAndLcm" />
+        <item itemvalue="Application.Prime" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c367ea8-c3a1-4709-8229-12ef4465423d" name="Default Changelist" comment="" />
+      <created>1610014855643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610014855643</updated>
+      <workItem from="1610014856816" duration="981000" />
+      <workItem from="1610016247768" duration="742000" />
+      <workItem from="1610071434390" duration="3823000" />
+      <workItem from="1610077747355" duration="1678000" />
+      <workItem from="1610079780542" duration="11197000" />
+      <workItem from="1610329656950" duration="36000" />
+      <workItem from="1610329713449" duration="77000" />
+      <workItem from="1610330086535" duration="10324000" />
+      <workItem from="1610355565280" duration="216000" />
+    </task>
+    <task id="LOCAL-00001" summary="Input matrix">
+      <created>1610075991582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610075991582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Input number of rows and colums for first matrix">
+      <created>1610078551521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610078551521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Input matrix" />
+    <MESSAGE value="Input number of rows and colums for first matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Input number of rows and colums for first matrix" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/MatrixSum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/MatrixMulti.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array/GcdAndLcm.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String/Prob2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
