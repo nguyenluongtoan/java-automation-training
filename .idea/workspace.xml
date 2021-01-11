@@ -1,103 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c367ea8-c3a1-4709-8229-12ef4465423d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/JavaAutomationTraining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MagicPlus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MagicSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixDiagonal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixMinus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/MatrixTranposition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/Array/Prob7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Compare3intergers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/For.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/IfElse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LeapYear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LoopProb1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LoopProb2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/LoopProb3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/MultiplicationTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/OddandEven.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Operators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Quadratic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Swap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/SwapWithoutVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/out/production/JavaAutomationTraining/BranchAndLoop/Variable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MagicPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MagicSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixDiagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixInverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/MatrixTranposition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/Array/Prob7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Compare3intergers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LoopProb1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LoopProb2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/LoopProb3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/OddandEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Quadratic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/SwapWithoutVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-automation-training-JavaAutomationTraining/src/BranchAndLoop/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MagicPlus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MagicSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixDiagonal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixInverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixMinus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/MatrixTranposition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/Array/Prob7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Compare3intergers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/For.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/IfElse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LeapYear.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LoopProb1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LoopProb2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/LoopProb3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/MultiplicationTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/OddandEven.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Operators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Quadratic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Swap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/SwapWithoutVariable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java-automation-training-JavaAutomationTraining/BranchAndLoop/Variable.class" afterDir="false" />
+    <list default="true" id="7c367ea8-c3a1-4709-8229-12ef4465423d" name="Default Changelist" comment="Merge branch 'DailyReport' of https://github.com/sonhv1/java-automation-training into DailyReport&#10;&#10;# Conflicts:&#10;#&#9;DailyReport.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DailyReport.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DailyReport.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -306,7 +211,7 @@
       <workItem from="1610329656950" duration="36000" />
       <workItem from="1610329713449" duration="77000" />
       <workItem from="1610330086535" duration="10324000" />
-      <workItem from="1610355565280" duration="544000" />
+      <workItem from="1610355565280" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="Input matrix">
       <created>1610075991582</created>
@@ -331,7 +236,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Input matrix" />
     <MESSAGE value="Input number of rows and colums for first matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Input number of rows and colums for first matrix" />
+    <MESSAGE value="Merge branch 'DailyReport' of https://github.com/sonhv1/java-automation-training into DailyReport&#10;&#10;# Conflicts:&#10;#&#9;DailyReport.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'DailyReport' of https://github.com/sonhv1/java-automation-training into DailyReport&#10;&#10;# Conflicts:&#10;#&#9;DailyReport.txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
