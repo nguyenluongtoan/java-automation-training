@@ -14,9 +14,11 @@ public class Prob3 {
             list.add(scanner.nextInt());
         }
 
-
+        int sum = 0;
         for (int i = 0; i < size; i++) {
-
+            sum += list.get(i);
         }
+
+        System.out.println("Sum of all elements in array list is: " + sum);
     }
 }
