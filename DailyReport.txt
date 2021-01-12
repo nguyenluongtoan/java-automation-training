@@ -44,3 +44,16 @@ Issues:
 - Gặp vấn đề về khởi tạo đối tượng và gọi đến hàm trong hàm main().
 
 
+Daily report 12/1:
+- Working process:
++ Học về arraylist, set, hashset
++ Truy cập, xử lí các phần tử trong list
+
+
+- Actual result:
++ Hoàn thành Prob 4,5,6 của bài tập về String
++ Hoàn thành Prob 1,2,3 của bài tập về Arraylist
+
+
+Issues:
+N/A
