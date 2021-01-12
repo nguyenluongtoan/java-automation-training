@@ -8,7 +8,7 @@ public class Prob6 {
         System.out.println("Input adn circuit: ");
         String str = scanner.nextLine();
         scanner.close();
-        System.out.println("The coressponding circuit: " + addDashCharacter(processString(str)));
+        System.out.println("The corresponding circuit: " + addDashCharacter(processString(str)));
 
     }
 
