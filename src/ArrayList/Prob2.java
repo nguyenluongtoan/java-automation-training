@@ -10,5 +10,13 @@ public class Prob2 {
         list.add("c");
         list.add("d");
         list.add("e");
+        System.out.println("Elements of list are: ");
+        for (int i = list.size()-1; i >= 0 ; i--) {
+            System.out.println(list.get(i));
+        }
     }
 }
+
+
+
+
