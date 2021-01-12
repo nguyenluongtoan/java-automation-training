@@ -9,5 +9,10 @@ public class Prob1 {
         list.add("FPT");
         list.add("Java");
         list.add("Python");
+        System.out.println("Elements of list are: ");
+        for (int i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i));
+        }
+
     }
 }
