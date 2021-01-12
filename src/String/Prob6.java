@@ -39,7 +39,6 @@ public class Prob6 {
                s1.append("-");
            }
            s1.append(str.charAt(i));
-
         }
         return s1.toString();
 
