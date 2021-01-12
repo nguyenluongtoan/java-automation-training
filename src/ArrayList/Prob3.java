@@ -9,6 +9,14 @@ public class Prob3 {
         ArrayList<Integer> list = new ArrayList<Integer>();
         System.out.println("Input number of elements in array list: ");
         int size = scanner.nextInt();
+        System.out.println("Input elements of array list: ");
+        for (int i = 0; i < size; i++) {
+            list.add(scanner.nextInt());
+        }
 
+
+        for (int i = 0; i < size; i++) {
+
+        }
     }
 }
