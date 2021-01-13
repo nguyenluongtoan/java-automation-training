@@ -22,5 +22,14 @@ public class Prob6 {
             }
         }
 
+        for (int i = 0; i < list.size(); i++) {
+            if(max == list.get(i)) {
+                continue;
+            } else if(list.get(i) > max2) {
+                max2 = list.get(i);
+            }
+        }
+
+        System.out.println("The second max value of list is: " + max2);
     }
 }
