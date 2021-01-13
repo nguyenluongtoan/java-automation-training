@@ -10,9 +10,16 @@ public class Prob4 {
         System.out.println("Input number of elements in array: ");
         int size = scanner.nextInt();
         int sum = 0;
+        System.out.println("Input elements of array: ");
         for (int i = 0; i < size; i++) {
-
+            list.add(scanner.nextInt());
         }
+
+        for (int i = 0; i < size; i++) {
+            sum += list.get(i);
+        }
+        double average = (double)sum/list.size();
+        System.out.println("The average of list is: " + average);
 
     }
 }
