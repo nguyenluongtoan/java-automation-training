@@ -32,6 +32,17 @@ public class Rectangle {
     }
     //setter of param width
 
+    public int getArea(int length, int width) {
+        int area = length*width;
+        return area;
+    }
+
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "length=" + length + "width" + width +
+                '}';
+    }
 
 }
 
