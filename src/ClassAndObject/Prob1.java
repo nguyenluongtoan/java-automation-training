@@ -37,4 +37,15 @@ public class Prob1 {
         this.color = color;
     }
     //set param color
+
+    public double getArea(double radius) {
+        double area = Math.pow(radius,2)*Math.PI;
+        return area;
+    }
+
+    public String toString() {
+        return "Radius: " + getRadius() + " " + "Color: " + getColor();
+
+    }
+
 }
