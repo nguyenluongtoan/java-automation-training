@@ -14,4 +14,20 @@ public class Employee {
         this.lastName = lastName;
         this.salary = salary;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public int getSalary() {
+        return salary;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
 }
