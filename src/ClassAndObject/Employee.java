@@ -48,13 +48,17 @@ public class Employee {
     }
 
     public String getFullname(String firstName, String lastName) {
-        String fullName = firstName + lastName;
+        String fullName = firstName + " " + lastName;
         return  fullName;
     }
 
     public int getAnnualSalary(int salary) {
         int annualSalary = salary*12;
         return annualSalary;
+    }
+
+    public int upToSalary (int percent) {
+        return this.salary + this.salary*percent/100;
     }
 
 
