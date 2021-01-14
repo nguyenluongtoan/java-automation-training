@@ -46,4 +46,15 @@ public class Employee {
     public void setSalary(int salary) {
         this.salary = salary;
     }
+
+    public String getFullname(String firstName, String lastName) {
+        String fullName = firstName + lastName;
+        return  fullName;
+    }
+
+    public int getAnnualSalary(int salary) {
+        int annualSalary = salary*12;
+        return annualSalary;
+    }
+
 }
