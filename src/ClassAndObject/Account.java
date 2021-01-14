@@ -52,6 +52,15 @@ public class Account {
             this.balance -= mount;
         }
     }
+
+    public void transferTo(Account account, int mount) {
+        if(mount > balance) {
+            System.out.println("Transfer unsuccessfully! ");
+        } else {
+            this.balance -= mount;
+            account.credit(mount);
+        }
+    }
 }
 
 
