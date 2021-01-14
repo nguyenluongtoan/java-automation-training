@@ -24,6 +24,20 @@ public class Account {
     public String getName() {
         return name;
     }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setBalance(int balance) {
+        this.balance = balance;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+
 }
 
 
