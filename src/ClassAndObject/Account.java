@@ -37,6 +37,13 @@ public class Account {
         this.name = name;
     }
 
+    public void credit(int amount) {
+        if(amount <= 0) {
+            System.out.println("Amount must be greater than 0");
+        } else {
+            this.balance += amount;
+        }
+    }
 
 }
 
