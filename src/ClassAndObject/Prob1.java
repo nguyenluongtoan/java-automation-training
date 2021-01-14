@@ -11,4 +11,13 @@ public class Prob1 {
     public Prob1(double radius) {
         this.radius = radius;
     }
+
+    public Prob1(double radius, String color) {
+        this.radius = radius;
+        this.color = color;
+    }
+
+    public double getRadius() {
+        return radius;
+    }
 }
