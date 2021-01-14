@@ -45,6 +45,13 @@ public class Account {
         }
     }
 
+    public void debit(int mount) {
+        if(mount > balance) {
+            System.out.println("Unsuccess! ");
+        } else {
+            this.balance -= mount;
+        }
+    }
 }
 
 
