@@ -20,4 +20,21 @@ public class Prob1 {
     public double getRadius() {
         return radius;
     }
+    // get param radius
+    public void setRadius(int radius) {
+        this.radius = radius;
+    }
+    //set param radius
+
+
+    public String getColor() {
+        return color;
+    }
+    //get param color
+
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+    //set param color
 }
