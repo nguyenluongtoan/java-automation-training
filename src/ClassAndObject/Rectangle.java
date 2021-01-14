@@ -11,4 +11,28 @@ public class Rectangle {
         this.length = length;
         this.width = width;
     }
+
+    public int getLength() {
+        return length;
+    }
+    //getter of length param
+    public void setLength(int length) {
+        this.length = length;
+    }
+    //setter of length param
+
+
+    public int getWidth() {
+        return width;
+    }
+    //getter of param width
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+    //setter of param width
+
+
 }
+
+
