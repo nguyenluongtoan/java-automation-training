@@ -17,6 +17,14 @@ public class Matrix {
         return m;
     }
 
+    public void setM(int m) {
+        this.m = m;
+    }
+
+    public void setN(int n) {
+        this.n = n;
+    }
+
     public int getN() {
         return n;
     }
