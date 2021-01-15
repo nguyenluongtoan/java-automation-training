@@ -6,6 +6,21 @@ public class Matrix {
     public int m; //number of rows
     public int n; //number of column
 
+    public Matrix(){}
+
+    public Matrix(int m, int n) {
+        this.m = m;
+        this.n = n;
+    }
+
+    public int getM() {
+        return m;
+    }
+
+    public int getN() {
+        return n;
+    }
+
     public int[][] inputMatrix(int m, int n, Scanner scanner) {
         int[][] x = new int[m][n];
         for (int i = 0; i < m; i++) {
