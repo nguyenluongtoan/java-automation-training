@@ -1,40 +1,54 @@
 package Array;
+import java.io.*;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class CheckLogin {
-    public static void main(String[] args) {
-        String[] username = new String[]{"sonhv1", "sonhv2", "sonhv3"};
-        String[] password = new String[]{"123", "456", "789"};
+    public static void main(String[] args) throws IOException {
+        String greeting = "Hello";
+        String username;
+        String password;
+        User loggedInUser = null;
+        List<User> listOfUsers = new ArrayList<>();
+
+        // Add 3 users to the list
+        listOfUsers.add(new User("sonhv1", "123"));
+        listOfUsers.add(new User("sonhv2", "456"));
+        listOfUsers.add(new User("sonhv3", "789"));
+
+        // Get user input
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Input username: ");
-        String u = scanner.nextLine();
-        System.out.println("Input password: ");
-        String p = scanner.nextLine();
-        checkLogin(u,p);
+        System.out.println("Input your username :");
+        username = scanner.nextLine();
+        System.out.println("Input your password :");
+        password = scanner.nextLine();
 
-    }
-
-    public static boolean checkLogin( String username, String password) {
-        boolean check = false;
-        String user = "";
-        String pass = "";
-        for (int i = 0; i < username.length(); i++) {
-            for (int j = 0; j < password.length(); j++) {
-                if(username.contains(user) && password.contains(pass)) {
-                    System.out.println("Welcome");
+        // Iterate through list of users to see if we have a match
+        for (User user : listOfUsers) {
+            if (user.getUsername().equals(username)) {
+                if (user.getPassword().equals(password)) {
+                    loggedInUser = user;
+                    break;
                 }
-                    else {
-                    System.out.println("Failed! ");
-
-                }
-
             }
         }
-        // check username and password
 
-        return check;
-        // function check username and password field
+        // if loggedInUser was changed from null, it was successful
+        if (loggedInUser != null) {
+            System.out.println("User successfully logged in with account: " + loggedInUser.getUsername());
+        } else {
+            System.out.println("Invalid username or password");
+        }
     }
-
-
 }
+
+
+
+
+
+
+
+
+
+

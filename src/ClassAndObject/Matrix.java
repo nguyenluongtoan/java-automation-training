@@ -29,6 +29,11 @@ public class Matrix {
         return n;
     }
 
+    @Override
+    public String toString() {
+        return "Matrix{" + "Number of row" + m + "Number of column" + n +'}';
+    }
+
     public int[][] inputMatrix(int m, int n, Scanner scanner) {
         int[][] x = new int[m][n];
         for (int i = 0; i < m; i++) {
