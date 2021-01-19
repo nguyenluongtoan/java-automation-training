@@ -16,7 +16,6 @@ public class SwapWithoutVariable {
 		a = a - b;
 		System.out.println("After swapping a = " + a + " and b = " + b);
 	}
-
 	}
 
 
