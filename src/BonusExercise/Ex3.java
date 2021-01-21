@@ -8,5 +8,12 @@ public class Ex3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input number of elements in array: ");
         int num = scanner.nextInt();
+        int arr[] = new int[num];
+        System.out.println("Input elements of array: ");
+        for (int i = 0; i < num; i++) {
+            arr[i] = scanner.nextInt();
+        }
+
+
     }
 }
