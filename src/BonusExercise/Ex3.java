@@ -52,7 +52,7 @@ public class Ex3 {
             System.out.println(b[i] + "\t");
         }
     }
-
+        // sort by des order
 
     }
 
