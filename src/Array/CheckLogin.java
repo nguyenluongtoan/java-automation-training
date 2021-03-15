@@ -28,7 +28,7 @@ public class CheckLogin {
         for (User user : listOfUsers) {
             if (user.getUsername().equals(username)) {
                 if (user.getPassword().equals(password)) {
-                    loggedInUser = user;
+                    loggedInUser = user;// nen su dung bien boolean de check thay vi dung 1 User
                     break;
                 }
             }
