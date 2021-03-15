@@ -12,7 +12,7 @@ public class GcdAndLcm {
         scanner.close();
         System.out.println("The greatest common divisor of a and b is: " + findGcd(a,b));
         System.out.println("The least common multiple of a and b is: " + findLcm(a,b));
-}
+}//ngoac dong va ngoac mo {}   dc can chinh chua dung
 
 public static int findGcd(int a, int b) {
     while (a != b) {
