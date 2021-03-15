@@ -17,6 +17,7 @@ public class Prob4 {
             temp += arr[i];
         }
         System.out.println("The average value of elements in array: " + temp/n);
-
+        // nên tách biệt phần xử lý kết quả và phần in kết quả ra, 
+        // cụ thể ở đây nên tính temp/n bằng bao nhiêu đấy sau đó mới gán biến và inra
     }
 }
